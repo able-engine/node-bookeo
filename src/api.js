@@ -4,6 +4,13 @@ export default {
     slots: {
       all: {
         path: '/availability/slots'
+      },
+      matching: {
+        path: '/availability/matchingslots',
+        params: {
+         search: '',
+         itemsPerPage: 300
+        }
       }
     },
     products: {
