@@ -12,7 +12,7 @@ Adds some helpers
 ## Usage
 
 ```js
-import Bookeo from 'node-bookeo'
+import Bookeo from 'ae-node-bookeo'
 
 const bookeo = new Bookeo({ secretKey, apiKey });
 
