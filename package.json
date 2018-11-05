@@ -1,5 +1,5 @@
 {
-  "name": "node-bookeo",
+  "name": "ae-node-bookeo",
   "version": "2.1.1",
   "description": "Bookeo API",
   "main": "lib/index.js",
@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/revolunet/node-bookeo.git"
+    "url": "https://github.com/able-engine/node-bookeo.git"
   },
   "homepage": "https://revolunet.github.io/node-bookeo/",
   "bugs": {
-    "url": "https://github.com/revolunet/node-bookeo/issues"
+    "url": "https://github.com/able-engine/node-bookeo/issues"
   },
   "keywords": [
     "node",
